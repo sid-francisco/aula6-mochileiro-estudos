@@ -1,0 +1,10 @@
+Criar repositório local
+git init
+Adicionar ao Git
+git add
+Criar um clone
+$ git clone hhtps://usuario@domain.com.git
+Verificar status dos arquivos/diretório
+git status
+Adicionar todos os arquivos/diretórios
+git add.
